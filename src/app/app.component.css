@@ -1,0 +1,13 @@
+.user-selector ul{
+    list-style:none;
+}
+
+.user-selector ul li{
+    padding: 10px;
+    cursor: pointer;
+}
+
+span.age{
+    padding: 5px;
+    background: #999;
+}
